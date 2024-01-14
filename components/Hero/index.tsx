@@ -25,7 +25,7 @@ const Hero = () => {
                   height={200}
                 /> */}
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                  Somos una cooperativa de trabajo ubicada en la ciudad de Tres Arroyos, provincia de Buenos Aires.
+                  Somos una cooperativa de trabajo que elaboramos con la mejor materia prima cereales para desayuno, avenas arrolladas, salvado y harina de avena.
                 </p>
                 {/* <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
