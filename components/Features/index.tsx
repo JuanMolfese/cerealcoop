@@ -46,7 +46,7 @@ const Features = () => {
                   Avena 
                 </h3>
                 <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  La mejor avena
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, sunt autem accusamus doloribus eveniet dolor temporibus nam tenetur voluptatum non consequatur officia rem veritatis commodi, praesentium eaque fuga quaerat cum.
                 </p>
               </div>
             </div>
@@ -65,13 +65,13 @@ const Features = () => {
                   Avena Extrusada
                 </h3>
                 <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  La mejor avena
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi amet commodi maiores minus harum voluptatum dolorum delectus quaerat veritatis rem repudiandae ratione dolores sit earum, sint quo autem, id magnam.
                 </p>
               </div>
             </div>
 
             <div className="w-full">
-              <div className="wow fadeInUp" data-wow-delay=".15s">
+              
                 <div className="mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
                   <Image
                     src="/images/features/avena_tradicional.png"
@@ -84,9 +84,9 @@ const Features = () => {
                   Avena Tradicional
                 </h3>
                 <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  La mejor avena
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facere magnam tempore, sunt architecto porro similique dolorum ea magni optio quaerat, ducimus nihil aliquid, reiciendis doloribus illum dignissimos unde obcaecati.
                 </p>
-              </div>
+              
             </div>
 
             <div className="w-full">
@@ -103,7 +103,26 @@ const Features = () => {
                   Avena Instantanea
                 </h3>
                 <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  La mejor avena
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit libero velit pariatur alias corrupti sequi cum, doloremque illum molestiae quidem et ratione expedita minus laboriosam explicabo ea nostrum recusandae? Saepe.
+                </p>
+              </div>
+            </div>
+
+            <div className="w-full">
+              <div className="wow fadeInUp" data-wow-delay=".15s">
+                <div className="mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
+                  <Image
+                    src="/images/features/azucarado2.png"
+                    width={70}
+                    height={70}
+                    alt="Imagen producto"
+                  />
+                </div>
+                <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                  Cereal azucarado
+                </h3>
+                <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aliquam deserunt rerum nulla pariatur sint fugiat reiciendis repellendus reprehenderit consequuntur quaerat, culpa, praesentium quos voluptates numquam suscipit provident consectetur iure!
                 </p>
               </div>
             </div>
