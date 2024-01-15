@@ -14,14 +14,17 @@ const Contact = () => {
               <h2 className="mb-3 text-2xl font-bold text-black dark:text-white sm:text-3xl lg:text-2xl xl:text-3xl">
                 Contacto
               </h2>
-              <p className="mb-12 text-base font-medium text-body-color">
-                Canales oficiales para contactarte con nosotros.
+              <p className="mb-1 text-base font-medium text-body-color">
+                Canales para contactarte con nosotros.
               </p>              
+              <p className="mb-12 text-base font-medium text-body-color">
+                De lunes a viernes de 8:00 a 16:00
+              </p>
                 <div className="-mx-4 flex flex-wrap">
                   <div className="w-full px-4 md:w-1/2">
                     <div className="mb-8">
                       <Link href="https://maps.app.goo.gl/VBvaxE1udhaViQyF6" target="_blank">
-                        Balcarce 1450, Tres Arroyos.
+                        Balcarce 1450, Tres Arroyos, pcia. de Buenos Aires.
                       </Link>                      
                     </div>
                     <div className="mb-8">
