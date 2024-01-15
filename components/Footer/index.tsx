@@ -75,7 +75,7 @@ const Footer = () => {
                    {/* Instagram */}
                    {/* ORIGINAL DE LA SIG LINEA <div className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"> */}
                     <div className="dark:text-body-color-dark mb-4 text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary">
-                      <Link href="https://www.instagram.com/cerealcoop/" className="flex align-middle">
+                      <Link href="https://www.instagram.com/cerealcoop/" target="_blank" className="flex align-middle">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
                           className="h-5 w-5"
@@ -90,7 +90,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <div className="dark:text-body-color-dark mb-4 text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary">
-                      <Link href="https://www.facebook.com/cerealcoop" className="flex align-middle">
+                      <Link href="https://www.facebook.com/cerealcoop" target="_blank" className="flex align-middle">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"  
                           fill="currentColor"
