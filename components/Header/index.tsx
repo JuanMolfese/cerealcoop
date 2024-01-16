@@ -174,7 +174,7 @@ const Header = () => {
                 </Link> */}
                 {/* LOGO WHATSAPP */}
                 <div className="hidden md:block h-7 w-7 mx-9">
-                  <Link href="//api.whatsapp.com/send?phone=542983582016">
+                  <Link href="//api.whatsapp.com/send?phone=542983582016" target="_blank">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"                    
                       fill="currentColor"
