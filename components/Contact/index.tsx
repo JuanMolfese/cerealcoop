@@ -7,7 +7,7 @@ const Contact = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
             <div
-              className="wow fadeInUp shadow-three dark:bg-gray-dark mb-12 rounded-sm bg-white px-8 py-11 sm:p-[55px] lg:mb-5 lg:px-8 xl:p-[55px]"
+              className="wow fadeInUp shadow-three dark:bg-gray-dark mb-12 mt-6 rounded-sm bg-white px-8 py-11 sm:p-[55px] lg:mb-5 lg:px-8 xl:p-[55px]"
               data-wow-delay=".15s
               "
             >
@@ -22,24 +22,24 @@ const Contact = () => {
               </p>
                 <div className="-mx-4 flex flex-wrap">
                   <div className="w-full px-4 md:w-1/2">
-                    <div className="mb-8">
+                    <div className="mb-8  hover:text-green dark:hover:text-green">
                       <Link href="https://maps.app.goo.gl/VBvaxE1udhaViQyF6" target="_blank">
                         Balcarce 1450, Tres Arroyos, pcia. de Buenos Aires.
                       </Link>                      
                     </div>
-                    <div className="mb-8">
+                    <div className="mb-8 hover:text-green dark:hover:text-green">
                       <Link href="tel:+542983574647" target="_blank">
                         Telefono: 2983 574647 
                       </Link>
                     </div>
                   </div>
                   <div className="w-full px-4 md:w-1/2">
-                    <div className="mb-8">
+                    <div className="mb-8 hover:text-green dark:hover:text-green">
                       <Link href="mailto:info@cerealcoop.com.ar" target="_blank">
                         mail: info@cerealcoop.com.ar
                       </Link>
                     </div>
-                    <div className="mb-8">
+                    <div className="mb-8 hover:text-green dark:hover:text-green">
                       <Link href="//api.whatsapp.com/send?phone=542983574647" target="_blank">
                         Whatsapp: 2983 574647 
                       </Link>

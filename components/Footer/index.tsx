@@ -74,7 +74,7 @@ const Footer = () => {
                   <li>
                    {/* Instagram */}
                    {/* ORIGINAL DE LA SIG LINEA <div className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"> */}
-                    <div className="dark:text-body-color-dark mb-4 text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary">
+                    <div className="dark:text-body-color-dark mb-4 text-base text-body-color duration-300 hover:text-green dark:hover:text-green">
                       <Link href="https://www.instagram.com/cerealcoop/" target="_blank" className="flex align-middle">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
@@ -89,7 +89,7 @@ const Footer = () => {
                     </div>
                   </li>
                   <li>
-                    <div className="dark:text-body-color-dark mb-4 text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary">
+                    <div className="dark:text-body-color-dark mb-4 text-base text-body-color duration-300 hover:text-green dark:hover:text-green">
                       <Link href="https://www.facebook.com/cerealcoop" target="_blank" className="flex align-middle">
                         <svg
                           xmlns="http://www.w3.org/2000/svg"  
@@ -115,7 +115,7 @@ const Footer = () => {
                   <li>
                     <Link href="https://www.google.com/search?hl=es-419&gl=ar&q=Cooperativa+de+Trabajo+Cerealcoop+Ltda.,+Balcarce+1450,+B7500IFD+Tres+Arroyos,+Provincia+de+Buenos+Aires&ludocid=11000712855476742547&lsig=AB86z5Vr_sa1EOOlyXF5CeOdl1nP#lrd=0x95926d38bac17f87:0x98aa620ecac3a993,3"
                       target="_blank" 
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
+                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-green dark:hover:text-green"
                     >
                       Opinar en google
                     </Link>
@@ -153,7 +153,7 @@ const Footer = () => {
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
           >
-            <circle opacity="0.8" cx="49.5" cy="49.5" r="49.5" fill="#959CB1" />
+            <circle opacity="0.8" cx="49.5" cy="49.5" r="49.5" fill="#078c31" />
             <mask
               id="mask0_94:899"
               style={{ maskType: "alpha" }}
@@ -168,7 +168,7 @@ const Footer = () => {
                 cx="49.5"
                 cy="49.5"
                 r="49.5"
-                fill="#4A6CF7"
+                fill="#078c31"
               />
             </mask>
             <g mask="url(#mask0_94:899)">
@@ -274,8 +274,8 @@ const Footer = () => {
                 y2="59.8878"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#4A6CF7" stopOpacity="0.62" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
+                <stop stopColor="#078c31" stopOpacity="0.62" />
+                <stop offset="1" stopColor="#078c31" stopOpacity="0" />
               </linearGradient>
               <linearGradient
                 id="paint1_linear_94:889"
@@ -285,8 +285,8 @@ const Footer = () => {
                 y2="20.668"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0.51" />
+                <stop stopColor="#078c31" stopOpacity="0" />
+                <stop offset="1" stopColor="#078c31" stopOpacity="0.51" />
               </linearGradient>
               <linearGradient
                 id="paint2_linear_94:889"
@@ -296,8 +296,8 @@ const Footer = () => {
                 y2="25.1062"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#4A6CF7" stopOpacity="0.62" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
+                <stop stopColor="#078c31" stopOpacity="0.62" />
+                <stop offset="1" stopColor="#078c31" stopOpacity="0" />
               </linearGradient>
               <linearGradient
                 id="paint3_linear_94:889"
@@ -307,8 +307,8 @@ const Footer = () => {
                 y2="80.6826"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0.51" />
+                <stop stopColor="#078c31" stopOpacity="0" />
+                <stop offset="1" stopColor="#078c31" stopOpacity="0.51" />
               </linearGradient>
               <linearGradient
                 id="paint4_linear_94:889"
@@ -318,8 +318,8 @@ const Footer = () => {
                 y2="58.2156"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#4A6CF7" stopOpacity="0.62" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
+                <stop stopColor="#078c31" stopOpacity="0.62" />
+                <stop offset="1" stopColor="#078c31" stopOpacity="0" />
               </linearGradient>
               <linearGradient
                 id="paint5_linear_94:889"
@@ -329,8 +329,8 @@ const Footer = () => {
                 y2="41.6598"
                 gradientUnits="userSpaceOnUse"
               >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0.51" />
+                <stop stopColor="#078c31" stopOpacity="0" />
+                <stop offset="1" stopColor="#078c31" stopOpacity="0.51" />
               </linearGradient>
             </defs>
           </svg>
