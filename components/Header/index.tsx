@@ -57,14 +57,14 @@ const Header = () => {
                 } `}
               >
                 <Image
-                  src="/images/logo/logo_coop.svg"
+                  src="/images/logo/logo_coop2.svg"
                   alt="logo"
                   width={140}
                   height={30}
                   className="w-full dark:hidden"
                 />
                 <Image
-                  src="/images/logo/logo_coop_wt.svg"
+                  src="/images/logo/logo_coop2_wt.svg"
                   alt="logo"
                   width={140}
                   height={30}
