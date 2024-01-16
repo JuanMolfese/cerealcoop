@@ -15,12 +15,12 @@ const Features = () => {
           />
           <SectionTitle
             title="Nuestra misión"
-            paragraph="ofrecer alimentos de calidad, sabrosos y saludables, aportando valor a los cereales de la región."
+            paragraph="Ofrecer alimentos de calidad, sabrosos y saludables, aportando valor a los cereales de la región."
             center
           />
           <SectionTitle
             title="Nuestra visión"
-            paragraph="que nos elijan por la excelencia de los productos y servicios, al mejor precio, brindando satisfacción a los clientes."
+            paragraph="Que nos elijan por la excelencia de los productos y servicios, al mejor precio, brindando satisfacción a los clientes."
             center
           />
           <SectionTitle
