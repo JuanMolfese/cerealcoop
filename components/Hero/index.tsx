@@ -39,7 +39,7 @@ const Hero = () => {
             </div>
           </div>
         </div>
-        <div className="absolute right-0 top-0 z-[-1] opacity-30 lg:opacity-100">
+        <div className="absolute right-0 top-0 z-[-1] opacity-30 lg:opacity-30">
           <svg
             width="450"
             height="556"
