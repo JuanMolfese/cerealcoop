@@ -32,6 +32,8 @@ return (
                             alt="Slider Desayuno"
                             width={500}
                             height={500}
+                            priority={true}
+                            placeholder='empty'
                         />                  
                     </div>
                 </div>
@@ -43,6 +45,7 @@ return (
                             alt="Slider Desayuno"
                             width={500}
                             height={500}
+                            priority={true}
                         />                  
                     </div>
                 </div>
@@ -54,6 +57,7 @@ return (
                             alt="Slider Desayuno"
                             width={500}
                             height={500}
+                            priority={true}
                         />                  
                     </div>
                 </div>

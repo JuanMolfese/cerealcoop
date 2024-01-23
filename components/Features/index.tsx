@@ -37,7 +37,7 @@ const Features = () => {
                 <Image
                   src="/images/features/avena_tradicional.png"
                   width={140}
-                  height={140}
+                  height={140}                  
                   alt="Imagen de Avena Tradicional"
                 />
               </div>
@@ -104,8 +104,8 @@ const Features = () => {
               <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
                 <Image
                   src="/images/features/copo_bolsa_2.png"                  
-                  width={200}
-                  height={200}
+                  width={180}
+                  height={180}
                   alt="Imagen copos de cereal a granel"
                 />
               </div>
@@ -122,8 +122,8 @@ const Features = () => {
               <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
                 <Image
                   src="/images/features/bolsa_avena_2.png"                  
-                  width={180}
-                  height={180}
+                  width={160}
+                  height={160}
                   alt="Imagen avena arrollada a granel"
                 />
               </div>
