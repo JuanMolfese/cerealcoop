@@ -32,99 +32,107 @@ const Features = () => {
             {/* {featuresData.map((feature) => (
               <SingleFeature key={feature.id} feature={feature} />
             ))} */}
-            <div className="w-full">
-              <div className="wow fadeInUp" data-wow-delay=".15s">
-                <div className="mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
-                  <Image
-                    src="/images/features/avena.png"
-                    width={70}
-                    height={70}
-                    alt="Imagen producto"
-                  />
-                </div>
-                <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Avena 
-                </h3>
-                <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, sunt autem accusamus doloribus eveniet dolor temporibus nam tenetur voluptatum non consequatur officia rem veritatis commodi, praesentium eaque fuga quaerat cum.
-                </p>
+            <div className="w-full">              
+              <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
+                <Image
+                  src="/images/features/avena_tradicional.png"
+                  width={140}
+                  height={140}
+                  alt="Imagen de Avena Tradicional"
+                />
               </div>
+              <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                Avena Tradicional
+              </h3>
+              <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+              Contiene 400 gramos. Caja por 22 unidades.
+              </p>              
             </div>
 
-            <div className="w-full">
-              <div className="wow fadeInUp" data-wow-delay=".15s">
-                <div className="mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
-                  <Image
-                    src="/images/features/avena_ext.png"
-                    width={70}
-                    height={70}
-                    alt="Imagen producto"
-                  />
-                </div>
-                <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Avena Extrusada
-                </h3>
-                <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi amet commodi maiores minus harum voluptatum dolorum delectus quaerat veritatis rem repudiandae ratione dolores sit earum, sint quo autem, id magnam.
-                </p>
+            <div className="w-full">              
+              <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
+                <Image
+                  src="/images/features/avena_extrafina.png"              
+                  width={140}
+                  height={140}
+                  alt="Imagen de Avena Extrafina"
+                />
               </div>
+              <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                Avena Extrafina
+              </h3>
+              <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+              Contiene 400 gramos. Caja con 22 unidades.
+              </p>              
             </div>
 
-            <div className="w-full">
-              
-                <div className="mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
-                  <Image
-                    src="/images/features/avena_tradicional.png"
-                    width={70}
-                    height={70}
-                    alt="Imagen producto"
-                  />
-                </div>
-                <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Avena Tradicional
-                </h3>
-                <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit facere magnam tempore, sunt architecto porro similique dolorum ea magni optio quaerat, ducimus nihil aliquid, reiciendis doloribus illum dignissimos unde obcaecati.
-                </p>
-              
+            <div className="w-full">               
+              <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
+                <Image
+                  src="/images/features/salvado_avena.png"              
+                  width={140}
+                  height={140}
+                  alt="Imagen de Salvado de Avena"
+                />
+              </div>
+              <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                Savado de Avena
+              </h3>
+              <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+              Contiene 350 gramos. Caja con 22 unidades.
+              </p>                            
             </div>
 
-            <div className="w-full">
-              <div className="wow fadeInUp" data-wow-delay=".15s">
-                <div className="mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
+            <div className="w-full">              
+              <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
                   <Image
-                    src="/images/features/avena_instantanea.png"
-                    width={70}
-                    height={70}
-                    alt="Imagen producto"
+                    src="/images/features/avena_instantanea.png"              
+                    width={140}
+                    height={140}
+                    alt="Imagen de Avena Instantanea"
                   />
-                </div>
-                <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Avena Instantanea
-                </h3>
-                <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit libero velit pariatur alias corrupti sequi cum, doloremque illum molestiae quidem et ratione expedita minus laboriosam explicabo ea nostrum recusandae? Saepe.
-                </p>
               </div>
+              <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                Avena Instantanea
+              </h3>
+              <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+                Contiene 350 gramos. Caja con 22 unidades.
+              </p>
+            </div>            
+
+            <div className="w-full">              
+              <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
+                <Image
+                  src="/images/features/copo_bolsa.png"                  
+                  width={200}
+                  height={200}
+                  alt="Imagen copos de cereal a granel"
+                />
+              </div>
+              <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                Copos a granel
+              </h3>
+              <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+              Copos de maíz: bolsa por 3 kilos. 
+              Copos Azucarados: bolsa por 4 kilos.
+              </p>              
             </div>
 
-            <div className="w-full">
-              <div className="wow fadeInUp" data-wow-delay=".15s">
-                <div className="mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-md bg-primary bg-opacity-10 text-primary">
-                  <Image
-                    src="/images/features/azucarado2.png"
-                    width={70}
-                    height={70}
-                    alt="Imagen producto"
-                  />
-                </div>
-                <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Cereal azucarado
-                </h3>
-                <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore aliquam deserunt rerum nulla pariatur sint fugiat reiciendis repellendus reprehenderit consequuntur quaerat, culpa, praesentium quos voluptates numquam suscipit provident consectetur iure!
-                </p>
+            <div className="w-full">              
+              <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
+                <Image
+                  src="/images/features/bolsa_avena.png"                  
+                  width={180}
+                  height={180}
+                  alt="Imagen avena arrollada a granel"
+                />
               </div>
+              <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                Avena arrollada a granel
+              </h3>
+              <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+                Instantánea por 20 kilos. Tradicional por 25 kilos. Extrafina por 25 kilos. Gruesa por 25 kilos. Salvado de Avena por 25 kilos. Harina de Avena por 25 kilos.
+              </p>              
             </div>
 
           </div>

@@ -1,5 +1,6 @@
-import Link from "next/link";
+/* import Link from "next/link"; */
 import Image from "next/image";
+import { EmblaCarousel } from '../Hero/Carousel'
 
 const Hero = () => {
   return (
@@ -16,25 +17,12 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  Cooperativa de trabajo Cerealcoop Ltda.
+                  Cooperativa de Trabajo Cerealcoop Ltda.
                 </h1>
-               {/*  <Image
-                  src="/images/hero/cereal.png" 
-                  alt="Imagen"
-                  width={ 200 }
-                  height={200}
-                /> */}
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                  Somos una cooperativa de trabajo que elaboramos con la mejor materia prima cereales para desayuno, avenas arrolladas, salvado y harina de avena.
-                </p>
-                <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-                  <Image 
-                    src="/images/hero/manos_wt3.png"
-                    alt="Manos con cereal"
-                    width={500}
-                    height={500}
-                  />                  
-                </div>
+                  Somos una cooperativa de trabajo, que elaboramos con la mejor materia prima cereales para desayuno, avenas arrolladas, salvado y harina de avena.
+                </p>                
+                <EmblaCarousel/>
               </div>
             </div>
           </div>
