@@ -103,7 +103,7 @@ const Features = () => {
             <div className="w-full">              
               <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
                 <Image
-                  src="/images/features/copo_bolsa.png"                  
+                  src="/images/features/copo_bolsa_2.png"                  
                   width={200}
                   height={200}
                   alt="Imagen copos de cereal a granel"
@@ -121,7 +121,7 @@ const Features = () => {
             <div className="w-full">              
               <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
                 <Image
-                  src="/images/features/bolsa_avena.png"                  
+                  src="/images/features/bolsa_avena_2.png"                  
                   width={180}
                   height={180}
                   alt="Imagen avena arrollada a granel"
