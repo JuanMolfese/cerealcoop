@@ -107,7 +107,7 @@ const Footer = () => {
               </div>
             </div>
 
-            <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-4/12">
+            <div className="w-full px-4 md:w-full lg:w-4/12 xl:w-4/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-l font-bold text-black dark:text-white">
                   Queres vender nuestros productos ?
