@@ -30,7 +30,7 @@ return (
                             src="/images/hero/slider_1.jpg"
                             className="rounded-lg"
                             alt="Slider Desayuno"
-                            width={500}
+                            width={800}
                             height={500}
                             priority={true}
                             placeholder='empty'
@@ -43,7 +43,7 @@ return (
                             src="/images/hero/slider_2.jpg"
                             className="rounded-lg"
                             alt="Slider Desayuno"
-                            width={500}
+                            width={800}
                             height={500}
                             priority={true}
                         />                  
@@ -55,7 +55,7 @@ return (
                             src="/images/hero/slider_3.jpg"
                             className="rounded-lg"
                             alt="Slider Desayuno"
-                            width={500}
+                            width={800}
                             height={500}
                             priority={true}
                         />                  

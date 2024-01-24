@@ -11,9 +11,10 @@ const Hero = () => {
       >
         <div className="container">
           <div className="-mx-4 flex flex-wrap">
+            
             <div className="w-full px-4">
               <div
-                className="wow fadeInUp mx-auto max-w-[800px] text-center"
+                className="wow fadeInUp mx-auto max-w-[1000px] text-center"
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
@@ -22,9 +23,10 @@ const Hero = () => {
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
                   Somos una cooperativa de trabajo, que elaboramos con la mejor materia prima cereales para desayuno, avenas arrolladas, salvado y harina de avena.
                 </p>                
-                <EmblaCarousel/>
+                  <EmblaCarousel/>                
               </div>
             </div>
+
           </div>
         </div>
         <div className="absolute right-0 top-0 z-[-1] opacity-30 lg:opacity-90">
