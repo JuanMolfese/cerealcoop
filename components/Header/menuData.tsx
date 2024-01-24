@@ -8,6 +8,12 @@ const menuData: Menu[] = [
     newTab: false,
   },
   {
+    id: 2,
+    title: "Productos",
+    path: "/products",
+    newTab: false,
+  },
+  {
     id: 3,
     title: "Contacto",
     path: "/contact",
