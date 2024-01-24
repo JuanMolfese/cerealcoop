@@ -62,7 +62,7 @@ const Features = () => {
                 Avena Extrafina
               </h3>
               <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-              Contiene 400 gramos. Caja con 22 unidades.
+              Contiene 400 gramos. Caja por 22 unidades.
               </p>              
             </div>
 
@@ -76,10 +76,10 @@ const Features = () => {
                 />
               </div>
               <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                Savado de Avena
+                Salvado de Avena
               </h3>
               <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-              Contiene 350 gramos. Caja con 22 unidades.
+              Contiene 350 gramos. Caja por 22 unidades.
               </p>                            
             </div>
 
@@ -96,7 +96,7 @@ const Features = () => {
                 Avena Instantanea
               </h3>
               <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
-                Contiene 350 gramos. Caja con 22 unidades.
+                Contiene 350 gramos. Caja por 22 unidades.
               </p>
             </div>            
 
