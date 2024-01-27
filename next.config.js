@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  images: {
+  /* images: {
     domains: ["localhost"],
     remotePatterns: [
       {
@@ -9,7 +9,7 @@ const nextConfig = {
         port: "",
       },
     ],
-  },
+  }, */
 };
 
 module.exports = nextConfig;
