@@ -18,6 +18,40 @@ const Features = () => {
             <div className="w-full">              
               <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
                 <Image
+                  src="/images/features/copo_azucarado.png"
+                  width={140}
+                  height={140}                  
+                  alt="Imagen de Copo Azucarado"
+                />
+              </div>
+              <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                Copos Azucarados
+              </h3>
+              <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+              Contiene 200 gramos. Caja por 44 unidades.
+              </p>              
+            </div>
+
+            <div className="w-full">              
+              <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
+                <Image
+                  src="/images/features/copo_maiz.png"
+                  width={140}
+                  height={140}                  
+                  alt="Imagen de Copo Maiz"
+                />
+              </div>
+              <h3 className="mb-5 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                Copos de Maiz
+              </h3>
+              <p className="pr-[10px] text-base font-medium leading-relaxed text-body-color">
+              Contiene 150 gramos. Caja por 44 unidades.
+              </p>              
+            </div>
+
+            <div className="w-full">              
+              <div className="mb-10 flex h-[270px] w-[100] items-center justify-center rounded-md bg-green bg-opacity-5 text-green drop-shadow-lg">
+                <Image
                   src="/images/features/avena_tradicional.png"
                   width={140}
                   height={140}                  
